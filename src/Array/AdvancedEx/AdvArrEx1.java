@@ -45,5 +45,7 @@ public class AdvArrEx1 {
         System.out.println("방법 2");
         System.out.println("가장 작은 수 : " + minNum);
         System.out.println("가장 큰 수 : " + maxNum);
+
+        System.out.println("새로운걸 알아벌임!!");
     }
 }
